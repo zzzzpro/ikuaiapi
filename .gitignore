@@ -1,0 +1,4 @@
+/obj/*
+/bin/*
+/Properties/PublishProfiles/FolderProfile.pubxml
+/Properties/PublishProfiles/FolderProfile.pubxml.user
